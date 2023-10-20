@@ -1,6 +1,6 @@
 # Outreachy_Iyanujesu_2023
 ## Land Sector Management & Exploratory Data Analysis (EDA) - Nigeria & Lagos
-This repository contains datasets and Jupyter Notebooks for the analysis of land sector management within Nigeria, with a specific focus on Lagos. The analysis is part of an initiative to bring together various datasets that can significantly impact land sector management, conservation efforts, and ecological assessments.
+This repository contains the Jupyter Notebooks for the analysis of land sector management within Nigeria, with a specific focus on Lagos. The analysis is part of an initiative to bring together various datasets that can significantly impact land sector management, conservation efforts, and ecological assessments.
 
 ### Project Overview
 The project involves the utilization of geospatial data to understand the land composition within Nigeria and Lagos. The analysis encompasses several ecological and environmental aspects, including:
